@@ -1,0 +1,13 @@
+* {
+  background: transparent url("img/Groupe 8.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.container {
+  position: absolute;
+  top: 240px;
+  left: 419px;
+  width: 1082px;
+  height: 634px;
+}
+img {
+}
